@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/spellinggame/static/css/main.c40f81bb.css",
-    "main.js": "/spellinggame/static/js/main.88660bfa.js",
+    "main.js": "/spellinggame/static/js/main.33aec45d.js",
     "static/js/151.7c39445d.chunk.js": "/spellinggame/static/js/151.7c39445d.chunk.js",
     "index.html": "/spellinggame/index.html",
     "main.c40f81bb.css.map": "/spellinggame/static/css/main.c40f81bb.css.map",
-    "main.88660bfa.js.map": "/spellinggame/static/js/main.88660bfa.js.map",
+    "main.33aec45d.js.map": "/spellinggame/static/js/main.33aec45d.js.map",
     "151.7c39445d.chunk.js.map": "/spellinggame/static/js/151.7c39445d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c40f81bb.css",
-    "static/js/main.88660bfa.js"
+    "static/js/main.33aec45d.js"
   ]
 }
