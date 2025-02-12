@@ -1,0 +1,14 @@
+.score, .correct-words {
+    font-size: 24px;
+    transition: color 0.2s, transform 0.2s;
+  }
+  
+  .score.increase, .correct-words.increase {
+    color: green;
+    transform: scale(1.1);
+  }
+  
+  .score.decrease, .correct-words.decrease {
+    color: red;
+    transform: scale(0.9);
+  }
